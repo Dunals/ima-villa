@@ -2139,3 +2139,13 @@ textarea.input-field {
   }
 
 }
+
+
+
+
+
+@media only screen and (max-width: 767px) {
+  .special-dish-banner {
+    display: none;
+  }
+}
